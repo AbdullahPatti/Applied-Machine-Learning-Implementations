@@ -39,21 +39,6 @@ Each module includes:
 - Benchmark comparison with scikit-learn
 - Observations and limitations
 
----
-
-## Repository Structure
-machine-learning-foundations/
-│
-├── algorithm-name/
-│ ├── implementation/
-│
-└── README.md
-
-
-> New algorithms will be added progressively as the study advances.
-
----
-
 ## Evaluation Approach
 
 All models are evaluated using:
