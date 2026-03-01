@@ -27,5 +27,11 @@ Dataset is split into **80% training** and **20% testing** sets.
 - ROC-AUC curves for each class (OvA approach)  
 
 ## Results
-
+### Multiclass Evaluation:
+- Accuracy = 0.6200
+- Macro F1-Score = 0.6234
+- 
 ### Scikit-learn OvA
+- Accuracy: 0.6400
+- Macro F1-Score: 0.6584
+
